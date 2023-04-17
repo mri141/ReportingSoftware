@@ -1,0 +1,1 @@
+[08-Apr-2023 07:39:03 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/imranmolla/sbdailyreport.imranmollah.com/routes/web.php on line 3
